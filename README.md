@@ -1,4 +1,4 @@
-<img align='right' src='dna.png' width='200"'>
+<img align='right' src='https://github.com/paoloo/paoloo/blob/master/dna.png' width='200"'>
 
 I'm a system engineer and researcher with physics, synthetic biology and embedded systems background. I've been researching many fields over the years, specially embedded systems, industrial network, communication protocols, artificial inteligence and many subfields of biology, specially CRISPR gene editing and bioinformatics.
 
