@@ -8,5 +8,5 @@ I blog <a href="blog/">here</a> to reflect on academia, research, security, and 
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=paoloo&show_icons=true" alt="paoloo" align='left' />
+<img src="https://github-readme-stats.vercel.app/api?username=paoloo&show_icons=true" width="45%" alt="paoloo" align='left' />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paoloo&layout=compact" alt="paoloo" align='right' />
