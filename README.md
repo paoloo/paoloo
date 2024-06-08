@@ -2,5 +2,5 @@ I blog [here](https://paolo.zone/blog/) to reflect on academia, research, securi
 
 
 ```math
-\ce{$\unicode[sans-serif; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; width: 100%; opacity: 0.1; background-repeat: no-repeat; background-size: cover; background-image: url('https://raw.githubusercontent.com/paoloo/paoloo/master/backg.png');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/paoloo/paoloo/master/backg.png');]{x0000}$}
 ```
